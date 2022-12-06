@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ooloitest/static/css/main.3d040567.css",
+    "main.js": "/Ooloitest/static/js/main.430fe8d9.js",
+    "static/js/787.0230134b.chunk.js": "/Ooloitest/static/js/787.0230134b.chunk.js",
+    "index.html": "/Ooloitest/index.html",
+    "main.3d040567.css.map": "/Ooloitest/static/css/main.3d040567.css.map",
+    "main.430fe8d9.js.map": "/Ooloitest/static/js/main.430fe8d9.js.map",
+    "787.0230134b.chunk.js.map": "/Ooloitest/static/js/787.0230134b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d040567.css",
+    "static/js/main.430fe8d9.js"
+  ]
+}
